@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CryptorRSA",
+        "repositoryURL": "https://github.com/IBM-Swift/BlueRSA.git",
+        "state": {
+          "branch": null,
+          "revision": "353ad7ff027fde129dfdcb30ce2f426b4e8f8466",
+          "version": "1.0.25"
+        }
+      },
+      {
+        "package": "CryptoSwift",
+        "repositoryURL": "https://github.com/krzyzanowskim/CryptoSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "526d5e91569b30857d8def9ea22ad7265b70d238",
+          "version": "0.9.0"
+        }
+      },
+      {
+        "package": "OpenSSL",
+        "repositoryURL": "https://github.com/IBM-Swift/OpenSSL.git",
+        "state": {
+          "branch": null,
+          "revision": "273fe9fa8f751bc278469b31ba3f1fe7a2b03723",
+          "version": "1.0.3"
+        }
+      },
+      {
+        "package": "RF24Swift",
+        "repositoryURL": "/home/pi/Desktop/RF24Swift",
+        "state": {
+          "branch": null,
+          "revision": "03d7bcf9f5e97f3f9c26e9a5a451d924383c2cba",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
